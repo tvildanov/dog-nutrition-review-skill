@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dog Nutrition Review"
+  short_description: "Evidence-led feeding support with clear safety limits"
+  default_prompt: "Use $review-dog-nutrition to review this dog's feeding plan and explain any limits."
+policy:
+  allow_implicit_invocation: true
