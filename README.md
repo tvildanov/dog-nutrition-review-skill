@@ -32,4 +32,4 @@ Development review included 16 fictional calculation and safety scenarios. This 
 
 The workflow uses original instructional wording and links to WSAVA, AAHA, AAFCO and other veterinary sources. Third-party documents, charts and software are not bundled. Their copyrights and terms remain with their owners.
 
-No open-source license has been selected for this private repository.
+No open-source license has been selected for this repository. Public visibility does not by itself provide an open-source license.
